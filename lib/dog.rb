@@ -9,7 +9,7 @@ def name
 end
 
 def breed=(dog_breed)
-  @this_dog_breed = dog breed
+  @this_dog_breed = dog_breed
 end
 
 def breed 
@@ -22,4 +22,4 @@ fido = Dog.new
 
 fido.name = "Fido"
 
-puts fido.name
+fido.name
