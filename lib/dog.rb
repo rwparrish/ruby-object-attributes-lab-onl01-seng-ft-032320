@@ -24,4 +24,6 @@ fido.name = "Fido"
 
 fido.name
 
-bee
+fido.breed = "Beegle"
+
+fido.breed
